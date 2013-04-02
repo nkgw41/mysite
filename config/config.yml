@@ -1,8 +1,13 @@
 # Title and subheading for your site. Used on the home page and in page
 # titles.
 #
+<<<<<<< HEAD
 title: "PaaS Site"
 subtitle: "(PaaSのユーザエクスペリエンスを綴るサイト)"
+=======
+title: "My Site"
+subtitle: "(change this text in config/config.yml)"
+>>>>>>> 888d1dae149dacfa2bc2a4a1b54d2feb0a56603d
 
 # You should really specify your content's author when generating an
 # Atom feed. Specify at least one of name, uri or email, and Nesta will
@@ -19,7 +24,11 @@ subtitle: "(PaaSのユーザエクスペリエンスを綴るサイト)"
 # easy to create or install, and live inside the themes directory. You
 # can also use scripts/theme to install them.
 #
+<<<<<<< HEAD
 theme: slate-of-theme
+=======
+# theme: name-of-theme
+>>>>>>> 888d1dae149dacfa2bc2a4a1b54d2feb0a56603d
 
 # If you want to use the Disqus service (http://disqus.com) to display
 # comments on your site, register a Disqus account and then specify your
